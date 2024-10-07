@@ -1,6 +1,6 @@
 class House: # Класс House
     def __init__(self, name, number_of_floors): # метод(параметр)
-        self.name = 'ЖК Эльбрус' # атрибуты объекта
+        self.name = name # атрибуты объекта
         self.number_of_floors = number_of_floors # атрибуты объекта
 
 
